@@ -41,4 +41,4 @@ jobs:
 
     - name: Job status
       if: ${{ success() }}
-      run: echo "Job status: success"
+      run: echo "Job Success:"
