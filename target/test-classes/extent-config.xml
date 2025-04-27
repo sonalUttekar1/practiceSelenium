@@ -1,0 +1,6 @@
+<configuration>
+    <reportName>My Project Report</reportName>
+    <headline>Test Execution Report</headline>
+    <theme>standard</theme>
+    <encoding>UTF-8</encoding>
+</configuration>
